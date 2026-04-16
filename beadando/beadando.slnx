@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="beadando/beadando.vcxproj" Id="68ff5d9b-2713-442e-80dc-0204ff3ebc53" />
+</Solution>
